@@ -1,4 +1,4 @@
-# Cliente
+# Servidor
 
 
 
@@ -8,7 +8,6 @@
 # install dependencies
 npm install
 
-# run dev client
-nom run dev
+# run node
+DEBUG=servidor:* npm run devstart
 
-localhost:8080
