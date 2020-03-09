@@ -9,7 +9,7 @@
 npm install
 
 # run dev client
-nom run dev
+npm run dev
 
 localhost:8080
 
