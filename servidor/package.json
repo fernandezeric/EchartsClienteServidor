@@ -8,7 +8,7 @@
     "serverstart": "DEBUG=servidor:* npm run devstart"
   },
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "axios": "^0.19.1",
     "body-parser": "^1.19.0",
     "canvas": "^2.6.1",
