@@ -19,7 +19,7 @@
     "echarts-gl": "^1.1.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "jsdom": "^16.0.1",
+    "jsdom": "^16.5.0",
     "morgan": "~1.9.1",
     "node-echarts-canvas": "^1.2.6",
     "pg-promise": "^10.3.5",
