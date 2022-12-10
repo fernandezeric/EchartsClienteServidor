@@ -17,7 +17,7 @@
     "debug": "~2.6.9",
     "echarts": "^4.6.0",
     "echarts-gl": "^1.1.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "jsdom": "^16.0.1",
     "morgan": "~1.9.1",
